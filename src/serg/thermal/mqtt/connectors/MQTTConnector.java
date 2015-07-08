@@ -30,9 +30,6 @@ public class MQTTConnector {
 	//The memory persistence object  
     MemoryPersistence persistence = null;
     
-
-    
-    
     //Constructor with values
     public MQTTConnector(String iBrokerURI, 
     		String iBrokerUsn, 
